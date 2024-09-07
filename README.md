@@ -6,6 +6,7 @@ ___
   * Gerekli kütüphanelerin eklenmesi, <br>
   * Başlangıç değerlerinin verilmesi,  <br>
   * Lojisitik haritalama fonksiyonun oluşturulması ve bu değerlerin txt dosyasına kaydedilmesi,  <br> <br>
+  ___
   * Mod (Modulus), Kesir (Fraction), Eşik değer (Threshold), Trigonometri (Trigonometric) ve Lineer (Linear) fonksiyonlara ait sonuçlar aşağıdaki düzenle verilmiştir;  <br>
 
       - İlgili fonksiyona ait değerlerin üretilmesi, <br>
